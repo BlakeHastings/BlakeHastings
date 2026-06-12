@@ -10,3 +10,4 @@ Appologies for how limited my Github profile is, most of my experience is locked
 
 - [LinkedIn](https://www.linkedin.com/in/the-blake-hastings/)
 - blakehastings@outlook.com
+- https://blakehastings.substack.com/ (very limited but I'm expanding it)
