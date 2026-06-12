@@ -4,9 +4,7 @@ Today I have been deeply invested in how my practice changes with AI involved an
 
 I'm a founding member of [Void Projects](https://github.com/voidprojectssoftware) which is collective of developers focusing on Developer tooling around AI.
 
-### Toolbox
-
-`C#` &middot; `.NET` &middot; `Python` &middot; `TypeScript` &middot; `Neo4j` &middot; `Terraform` &middot; `AWS` &middot; `Azure` &middot; `React` &middot; `Angular`
+Appologies for how limited my Github profile is, most of my experience is locked behind proprietary walls ;-; I've only recently started focusing on creating tooling outside of the institutions I work for and I'm loving every second of it :D
 
 ### Connect
 
